@@ -15,11 +15,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <artifactId>poker-player</artifactId>
+
     <properties>
         <scala.version>2.10.4</scala.version>
     </properties>
 
-    <artifactId>poker-player</artifactId>
     <dependencies>
         <dependency>
             <groupId>poker</groupId>

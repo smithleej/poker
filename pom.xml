@@ -25,7 +25,6 @@
         <module>tools</module>
         <module>player</module>
         <module>engine</module>
-        <module>player</module>
     </modules>
 
     <dependencies>
