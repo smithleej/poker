@@ -23,6 +23,7 @@
     <modules>
         <module>api</module>
         <module>engine</module>
+        <module>player</module>
     </modules>
 
     <dependencies>
