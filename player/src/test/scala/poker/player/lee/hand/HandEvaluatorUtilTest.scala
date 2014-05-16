@@ -1,4 +1,4 @@
-package poker.player.hand
+package poker.player.lee.hand
 
 import org.scalatest.FunSuite
 import poker.CardDTO

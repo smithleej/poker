@@ -1,4 +1,4 @@
-package poker.player.hand
+package poker.player.lee.hand
 
 /**
  * @version created on 08/05/14, 16:01

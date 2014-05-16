@@ -1,7 +1,7 @@
-package poker.player.hand.evaluator
+package poker.player.lee.hand.evaluator
 
 import poker.CardDTO
-import poker.player.hand.Hand
+import poker.player.lee.hand.Hand
 
 /**
  * @version created on 16/05/14, 13:47

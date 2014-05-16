@@ -1,7 +1,7 @@
-package poker.player.hand
+package poker.player.lee.hand
 
 import poker.CardDTO
-import poker.player.hand.evaluator._
+import poker.player.lee.hand.evaluator._
 
 /**
  * A utility to get the best hand when all cards are dealt or the best possible hand if there are still cards to deal.

@@ -1,7 +1,7 @@
-package poker.player.lee
+package poker.player.lee.move
 
 import poker.CardDTO
-import poker.player.hand.{HandEvaluatorUtil, Hand}
+import poker.player.lee.hand.{Hand, HandEvaluatorUtil}
 
 /**
  * @version created on 08/05/14, 16:27

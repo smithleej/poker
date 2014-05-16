@@ -2,10 +2,7 @@ package poker.player.lee
 
 import poker._
 import scala.collection.JavaConversions._
-import poker.player._
-import poker.player.lee.Fold
-import poker.player.lee.Call
-import poker.player.lee.AllIn
+import poker.player.lee.move._
 
 /**
  * @version created on 08/05/14, 13:32

@@ -1,4 +1,4 @@
-package poker.player
+package poker.player.lee.move
 
 /**
  * @version created on 08/05/14, 16:20

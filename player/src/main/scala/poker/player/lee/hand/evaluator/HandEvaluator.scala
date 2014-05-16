@@ -1,7 +1,7 @@
-package poker.player.hand.evaluator
+package poker.player.lee.hand.evaluator
 
 import poker.CardDTO
-import poker.player.hand.Hand
+import poker.player.lee.hand.Hand
 
 /**
  * All hand evaluators must implement has() and possible().
