@@ -11,7 +11,7 @@ object MoveEvaluator {
     if (cards.size == 5) {
       // When all cards are dealt
       HandEvaluatorUtil.getBestHand(cards) match {
-        case Hand.RoyalFlush => AllIn()
+        case Hand.RoyalFlush => Raise(50)
         case Hand.StraightFlush => Raise(10)
         case Hand.FourOfAKind => Raise(5)
         case Hand.FullHouse => Raise(3)
